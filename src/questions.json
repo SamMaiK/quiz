@@ -1,0 +1,23 @@
+[
+  {
+    "text": "What is the capital of Great Britain?",
+    "options": [
+      "Shefield", "London", "Manchester", "Edinburgh"
+    ],
+    "answer": "London"
+  },
+  {
+    "text": "What is the capital of Russia?",
+    "options": [
+      "Moscow", "Saint Petersburg", "Vladivostok", "Orenburg"
+    ],
+    "answer": "Moscow"
+  },
+  {
+    "text": "What is the capital of Belarus?",
+    "options": [
+      "Brest", "Gomel", "Mogilev", "Minsk"
+    ],
+    "answer": "Minsk"
+  }
+]

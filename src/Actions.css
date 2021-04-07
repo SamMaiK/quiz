@@ -1,0 +1,11 @@
+.actions {
+    position: relative;
+    margin-top: 18px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.actions > *:only-child {
+    position: absolute;
+    right: 0;
+}
